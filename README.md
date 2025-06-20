@@ -9,11 +9,11 @@ You can click the Preview link to take a look at your changes.
 --->
 ### 📊 GitHub Stats
 
-![Geerthanah's GitHub stats]([https://github-readme-stats.vercel.app/api?username=geerthanah&show_icons=true&theme=radical](https://streak-stats.demolab.com/?user=geerthanah&theme=radical))
+![Geerthanah's GitHub stats](https://github-readme-stats.vercel.app/api?username=geerthanah&show_icons=true&theme=radical)
 
 ### 🔥 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=geerthanah&theme=radical)](https://github.com/geerthanah)
+[![GitHub Streak]([https://streak-stats.demolab.com/?user=geerthanah&theme=radical)](https://github.com/geerthanah](https://streak-stats.demolab.com/?user=geerthanah&theme=radical))
 
 ### 🧠 Top Languages
 
