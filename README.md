@@ -14,7 +14,6 @@ I'm a passionate and curious developer with a strong interest in full-stack deve
 ## 🛠️ Languages & Technologies
 
 **Languages:**  
-## 🧠 Languages I Use / Know
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
