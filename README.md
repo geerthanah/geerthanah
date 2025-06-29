@@ -53,7 +53,7 @@ I'm a passionate and curious developer with a strong interest in full-stack deve
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
 
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=geerthanah.geerthanah&left_color=gray&right_color=blue)
+
 
 
 <!---
