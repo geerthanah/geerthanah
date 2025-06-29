@@ -67,7 +67,10 @@ You can click the Preview link to take a look at your changes.
 
 ### 🐍 GitHub Contribution
 
-![Snake animation](https://github.com/geerthanah/geerthanah/raw/output/github-contribution-grid-snake.svg)
+## 🐍 GitHub Contribution Snake
+
+![snake gif](https://github.com/geerthanah/geerthanah/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
