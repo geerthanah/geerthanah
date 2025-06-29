@@ -70,6 +70,10 @@ You can click the Preview link to take a look at your changes.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geerthanah&layout=compact&theme=radical)
 
 
+### 🐍 GitHub Contribution
+
+![snake gif](https://github.com/geerthanah/geerthanah/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
