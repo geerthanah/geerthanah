@@ -52,6 +52,8 @@ I'm a passionate and curious developer with a strong interest in full-stack deve
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=YOUR_USERNAME.YOUR_REPO_NAME&left_color=gray&right_color=blue)
+
 <!---
 geerthanah/geerthanah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -65,11 +67,7 @@ You can click the Preview link to take a look at your changes.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geerthanah&layout=compact&theme=radical)
 
-### 🐍 GitHub Contribution
 
-## 🐍 GitHub Contribution Snake
-
-![snake gif](https://github.com/geerthanah/geerthanah/blob/output/github-contribution-grid-snake.svg)
 
 
 
