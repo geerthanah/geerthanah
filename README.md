@@ -1,5 +1,5 @@
 <p align="center">
-  👋 Hello there! I'm <strong>Geerthanah</strong><br>
+  <h2>👋 Hello there! I'm <strong>Geerthanah</strong></h2>
   I'm a passionate and curious developer with a strong interest in full-stack development and machine learning.<br>
   I enjoy building practical projects, solving problems, and continuously learning new technologies.
 </p>
