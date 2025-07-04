@@ -1,6 +1,8 @@
-## 👋 Hello there! I'm Geerthanah
-
-I'm a passionate and curious developer with a strong interest in full-stack development and machine learning. I enjoy building practical projects, solving problems, and continuously learning new technologies.
+<p align="center">
+  👋 Hello there! I'm <strong>Geerthanah</strong><br>
+  I'm a passionate and curious developer with a strong interest in full-stack development and machine learning.<br>
+  I enjoy building practical projects, solving problems, and continuously learning new technologies.
+</p>
 
 📫 Reach me at: [geerthanahmathi20@gmail.com](mailto:geerthanahmathi20@gmail.com)
 
