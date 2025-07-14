@@ -13,6 +13,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/geerthanah_m/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://web.facebook.com/geerthanah.mathivathanan/)
 
+![Profile views](https://komarev.com/ghpvc/?username=geerthanah&color=blue)
+
 ## 🛠️ Languages & Technologies
 
 **Languages:**  
